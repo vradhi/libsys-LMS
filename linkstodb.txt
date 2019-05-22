@@ -8,3 +8,5 @@ http://localhost/phpmyadmin/sql.php?db=reg&table=user&server=1&target=&token=953
 
 bookinfo from books 
 http://localhost/phpmyadmin/sql.php?db=books&table=bookinfo&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9#PMAURL-0:sql.php?db=books&table=bookinfo&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9
+main db homepg
+http://localhost/phpmyadmin/index.php?db=&table=&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9#PMAURL-0:index.php?db=&table=&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9
