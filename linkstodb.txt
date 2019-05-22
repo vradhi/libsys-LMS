@@ -1,0 +1,10 @@
+tbl_student from newest 
+http://localhost/phpmyadmin/sql.php?db=newest&table=tbl_student&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9#PMAURL-0:sql.php?db=newest&table=tbl_student&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9
+user from reg 
+http://localhost/phpmyadmin/sql.php?db=reg&table=user&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9#PMAURL-5:sql.php?db=reg&table=user&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9
+
+
+
+
+bookinfo from books 
+http://localhost/phpmyadmin/sql.php?db=books&table=bookinfo&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9#PMAURL-0:sql.php?db=books&table=bookinfo&server=1&target=&token=953c67721ab4b5cb1b62e850739b60b9
